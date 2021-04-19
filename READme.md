@@ -5,7 +5,9 @@ In this project we are asked to **refactor** the existing code in the _Horiseon 
 
 ## **Submission**
 
-GitHub repository URL:
-Deployed URL: 
+GitHub repository URL: 
+Deployed URL:  [Horiseon-Online-Marketing-Services] (https://github.com/rubiocode/Horiseon-Online-Marketing-Services.git "_Horiseon Webpage_")
 
 The end result the webpage should look like this: 
+
+![FinalProduct] <img src="images/final-product.jpg" alt="Horiseon Online Marketing Services"/>
