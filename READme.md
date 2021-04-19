@@ -11,4 +11,4 @@ In this project we are asked to **refactor** the existing code in the _Horiseon 
 
 The end result the webpage should look like this: 
 
-![Horiseon] (/images/Final-Product.png)
+![/images/Final-Product.png] 
