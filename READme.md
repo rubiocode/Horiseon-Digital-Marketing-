@@ -5,9 +5,9 @@ In this project we are asked to **refactor** the existing code in the _Horiseon 
 
 ## Submission
 
-**GitHub repository URL:** [Horiseon-Online-Marketing-Services] (https://github.com/rubiocode/Horiseon-Online-Marketing-Services.git "_Horiseon Webpage_")
+**GitHub repository URL:** https://github.com/rubiocode/Horiseon-Online-Marketing-Services
 
-**Deployed URL:**  
+**Deployed URL:** https://rubiocode.github.io/Horiseon-Online-Marketing-Services/
 
 The end result the webpage should look like this: 
 
