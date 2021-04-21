@@ -5,12 +5,12 @@
     margin: 0;
 }
 
-/*Webpage background color */
+/*Webpage background color changes to light gray */
 body {
     background-color: #d9dcd6;
 }
 
-/* Header section and navigation tools start*/ 
+/* Header section includes navigation tools. Added Id and class to make code cleaner.*/ 
 #header-section {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -56,7 +56,7 @@ p {
     font-size: 16px;
 }
 
-/*large and centered social marketing img styling*/
+/*Switched Hero image from CSS to HTML for better accessability*/
 #hero {
     height: 800px;
     width: 100%;
@@ -65,7 +65,7 @@ p {
     background-position: center;
 }
 
-/*Content section start and content img styling*/
+/*Main content section start and content img styling. Condensed code to meet codebase sustainability and readibility*/
 #content {
     width: 75%;
     display: inline-block;
@@ -99,9 +99,9 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-/*Content section and content img styling ends*/
+/*End of main content section*/
 
-/*Side Benefits section start and benefits img styling*/
+/*Aside Benefits section start and benefits img styling. Refactored code to meet codebase sustainability and readability*/
 #benefits-section {
     margin-right: 20px;
     padding: 20px;
@@ -128,7 +128,7 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-/*Benefits section and benefits img styling ends*/
+/*end of aside benefit section*/
 
 /*Footer section start*/
 footer {
@@ -141,4 +141,3 @@ footer {
 #final {
     font-size: 20px;
 }
-/*Footer section ends*/
